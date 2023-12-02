@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "SWE-Tutorial-8"
+  site-url: "https://ajsass.github.io/SWE-Tutorial-8"
+  description: "1"
+  repo-branch: main
+  repo-url: "https://github.com/ajsass/SWE-Tutorial-8"
